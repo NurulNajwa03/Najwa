@@ -1,0 +1,218 @@
+body{
+    background-color: rgb(235, 212, 212);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* home section */
+.header {
+    word-spacing: 10px;
+    font-size: x-large;
+    text-align: center;
+    position: fixed;
+    text-decoration: none;
+}
+a:link {
+    color:rgb(131, 88, 88);
+    text-decoration: none;
+} 
+a:visited {
+      color:  rgb(70, 51, 51);
+      text-decoration: none;
+}   
+a:hover {
+     color: wheat;
+     text-decoration: none;
+}  
+a:active {
+     color: rgb(255, 145, 0);
+     text-decoration: none;
+} 
+.nav-link{
+  text-decoration: none;
+  }  
+
+.home1{
+    font-size: 5rem;
+    text-align: center;
+    color:  rgb(70, 51, 51);
+    margin-top: -30px;
+    padding-top: 100px;
+}
+/* aboutUs */
+
+
+.aboutp{
+    margin-left: 130px;
+    border-radius: 10px;
+}
+li{
+    position: relative;
+    bottom: 310px;
+    left: 584px;
+    font-size: 27px;
+}
+img{
+
+    height: 320px;
+    width: 350px;
+    border: 2px solid rgb(70, 51, 51) ;
+
+}
+h1{
+    text-align: center;
+    font-style: oblique;
+}
+
+.aboutUs{
+    height: 600px;
+}
+/* services */
+
+.card-body{
+    display: inline-flex;
+
+} 
+.card-1{
+    width: 300px;
+    height: 330px;
+    background-color:  rgb(255, 240, 240);
+    box-shadow: 10px 10px;
+    color: rgb(70, 51, 51);
+    border-radius: 10px;
+    margin: 55px;
+    padding: 15px; 
+  }
+  .card-2{
+    width: 300px;
+    border-radius: 10px;
+    height: 330px;
+    background-color:  rgb(255, 240, 240);
+    box-shadow: 10px 10px;
+    color: rgb(70, 51, 51);
+    padding: 15px; 
+    margin: 55px;
+    
+  }
+  .card-3{
+    width: 300px;
+    height: 330px;
+    padding: 15px; 
+    background-color:  rgb(255, 240, 240);
+    box-shadow: 10px 10px; 
+    color: rgb(70, 51, 51);
+    border-radius: 10px;
+    margin: 55px;
+  }
+  .services{
+    height: 900px;
+  }
+  .card-text{ 
+    text-align: justify;
+    font-size: 17px;
+    width: 280px;
+}
+/* Portfolio */
+  
+  .cardp-1{
+  
+
+    padding: 15px; 
+    background-color:  rgb(255, 240, 240);
+    box-shadow: 10px 10px;
+    color: rgb(70, 51, 51);
+    border-radius: 10px;
+     margin: 55px;
+  }
+  .cardp-2{
+  
+  
+
+    padding: 15px;
+    background-color:  rgb(255, 240, 240);
+    box-shadow: 10px 10px;
+    color: rgb(70, 51, 51);
+    border-radius: 10px;
+    margin: 55px;
+
+  }
+  .cardp-3{
+  
+  
+    padding: 15px; 
+    background-color:  rgb(255, 240, 240);
+    box-shadow: 10px 10px;
+    color: rgb(70, 51, 51);
+    border-radius: 10px;
+    margin: 55px;
+ 
+  }
+  .p{
+    
+    height: 280px;
+    width: 290px;
+    border-radius: 10px;
+
+  }
+  .phome1{
+    padding-top: 60px;
+    font-size: 4rem;
+    text-align: center;
+    color:  rgb(70, 51, 51);
+  }
+
+ /* Contact  */
+
+iframe{
+    
+    margin-left: 20px;
+    border-radius: 10px;
+    background-color: rgb(235, 212, 212);
+  }
+  .input {
+    padding-top: 15px;
+    padding-left: 15px;
+    position: relative;
+    left: 650px;
+    bottom: 440px;
+   
+
+  }
+  button{
+    margin: 10px;
+    text-decoration: none;
+  }
+  input{
+    border: 2px solid rgb(70, 51, 51);
+    margin-bottom: 15px;
+    background-color: white;
+    border-radius: 10px;
+  
+  }
+  textarea{
+    border: 2px solid rgb(70, 51, 51);
+    background-color: white;
+    border-radius: 10px;
+  }
+  /* footer */
+.footer{
+    background-color: rgb(70, 51, 51) ;
+    text-align: center;
+    position: relative;
+    
+}
+.fa {
+    padding: 20px;
+    font-size: 60px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  .phome{
+    font-size: 4rem;
+    text-align: center;
+    color:  rgb(70, 51, 51);
+    padding-top: 75px;
+    margin-bottom: 0px;
+}
+
+  
